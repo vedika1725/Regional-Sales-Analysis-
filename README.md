@@ -5,12 +5,11 @@
 This project demonstrates how data analytics can be applied to the sales domain to extract valuable insights and support data-driven decision-making. By using Python, Excel, and Power BI, we analyze key sales metrics such as revenue, profit, customer performance, and product trends.
 
 ## 📁 Files Included
-- `sales_data.xlsx` – Raw sales data file
-- `sales_analysis.ipynb` – Python code for data cleaning, preprocessing, and analysis
-- `PowerBI_Dashboard.pbix` – Interactive dashboard with visualizations
-- `/reports/` – PDF reports summarizing findings
-- `/images/` – Dashboard screenshots and charts
-- `README.md` – Project documentation
+| `Sales_data (EDA Exported).xlsx` | Cleaned Excel file used for further analysis |
+| `SALES REPORT.pbix` | Interactive Power BI dashboard with sales KPIs and filters |
+| `Regional Sales Dataset.xlsx` | Original raw dataset |
+| `PPT --- Regional Sales Analysis.pptx` | Presentation of key insights and visuals |
+| `EDA_Regional_Sales_Analysis.ipynb` | Jupyter Notebook with data cleaning, EDA, and basic analysis |
 
 ## 📊 Features
 - Revenue and profit analysis by region and time
